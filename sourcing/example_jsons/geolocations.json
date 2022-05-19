@@ -1,0 +1,56 @@
+[
+    {
+        "id": "46.9261,7.4662",
+        "lat": 46.9261,
+        "lon": 7.4662,
+        "station_id": "S19038",
+        "timezone": "Europe/Zurich",
+        "default_name": "Nesslerewald",
+        "alarm_region_id": "5",
+        "alarm_region_name": "Agglo BE",
+        "district": "Köniz",
+        "geolocation_names": [
+            {
+                "district": "Köniz",
+                "id": "9e3a7218b5b7fe7155c2e3d93fd40b83",
+                "location_id": "4116799474",
+                "type": "city",
+                "language": 0,
+                "translation_type": "orig",
+                "name": "Nesslerewald",
+                "country": "Schweiz",
+                "province": "Bern",
+                "inhabitants": 0,
+                "height": 540,
+                "ch": 1
+            }
+        ]
+    },
+    {
+        "id": "46.9272,7.4684",
+        "lat": 46.9272,
+        "lon": 7.4684,
+        "station_id": "S19038",
+        "timezone": "Europe/Zurich",
+        "default_name": "Aare",
+        "district": "Köniz",
+        "geolocation_names": [
+            {
+                "district": "Köniz",
+                "id": "03f080c01febcf2b5a9a78a76b872552",
+                "location_id": "417258304",
+                "type": "poi",
+                "poi_type": {
+                    "id": 553,
+                    "name": "STREAM"
+                },
+                "language": 0,
+                "translation_type": "orig",
+                "name": "Aare",
+                "country": "Schweiz",
+                "height": 530,
+                "ch": 1
+            }
+        ]
+    }
+]
